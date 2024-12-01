@@ -23,7 +23,7 @@ The result of the round (win, lose, or draw) is displayed, and the scores are up
 Play again to see how many rounds you can win!
 Installation
 Clone the repository:
-git clone https://github.com/JonnyFinder/rock-paper-scissors.git
+git clone https://github.com/jonathanniwadev/Rock-Paper-Scissors-Game.git
 
 Open the index.html file in any modern web browser.
 Code Overview
